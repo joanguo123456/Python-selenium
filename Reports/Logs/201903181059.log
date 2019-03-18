@@ -1,0 +1,98 @@
+2019-03-18 11:03:32,611 - SendMail.py:[46]-[INFO] - open and read file [E:/20181213基础/ONU WEB-A Ver1.0/Reports/TestReport/2019-03-18.html] successed!
+2019-03-18 11:03:32,612 - SendMail.py:[59]-[INFO] - connect [mail.cvnchina.com] server successed ！
+2019-03-18 11:03:32,879 - SendMail.py:[67]-[INFO] - send mail successed ！
+>run completed! please check the test report
+NoneType: None
+2019-03-18 11:03:16,074 - WanPage_TC.py:[105]-[ERROR] - test04_WanPage->run completed! please check the test report
+NoneType: None
+2019-03-18 11:03:23,446 - WanPage_TC.py:[123]-[ERROR] - test05_WanPage->run completed! please check the test report
+NoneType: None
+Page_TC.py:[91]-[ERROR] - test05_InfoPage->run completed! please check the test report
+NoneType: None
+2019-03-18 11:01:11,489 - InfoPage_TC.py:[107]-[ERROR] - test06_InfoPage->run completed! please check the test report
+NoneType: None
+2019-03-18 11:01:14,861 - InfoPage_TC.py:[123]-[ERROR] - test07_InfoPage->run completed! please check the test report
+NoneType: None
+2019-03-18 11:01:18,148 - InfoPage_TC.py:[139]-[ERROR] - test08_InfoPage->run completed! please check the test report
+NoneType: None
+*******starting run test cases************************
+2019-03-18 11:01:10,178 - myunittest.py:[32]-[INFO] - ************************test case run completed************************
+2019-03-18 11:01:10,178 - myunittest.py:[27]-[INFO] - ************************starting run test cases************************
+2019-03-18 11:01:13,394 - myunittest.py:[32]-[INFO] - ************************test case run completed************************
+2019-03-18 11:01:13,395 - myunittest.py:[27]-[INFO] - ************************starting run test cases************************
+2019-03-18 11:01:16,809 - myunittest.py:[32]-[INFO] - ************************test case run completed************************
+2019-03-18 11:01:16,809 - myunittest.py:[27]-[INFO] - ************************starting run test cases************************
+2019-03-18 11:01:20,081 - myunittest.py:[32]-[INFO] - ************************test case run completed************************
+2019-03-18 11:01:24,438 - myunittest.py:[38]-[INFO] - quit the browser successed .
+2019-03-18 11:01:32,050 - myunittest.py:[16]-[INFO] - open the browser successed .
+2019-03-18 11:01:35,852 - myunittest.py:[27]-[INFO] - ************************starting run test cases************************
+2019-03-18 11:01:42,807 - myunittest.py:[32]-[INFO] - ************************test case run completed************************
+2019-03-18 11:01:42,807 - myunittest.py:[27]-[INFO] - ************************starting run test cases************************
+2019-03-18 11:01:49,511 - myunittest.py:[32]-[INFO] - ************************test case run completed************************
+2019-03-18 11:01:49,512 - myunittest.py:[27]-[INFO] - ************************starting run test cases************************
+2019-03-18 11:01:56,203 - myunittest.py:[32]-[INFO] - ************************test case run completed************************
+2019-03-18 11:01:56,203 - myunittest.py:[27]-[INFO] - ************************starting run test cases************************
+2019-03-18 11:02:02,889 - myunittest.py:[32]-[INFO] - ************************test case run completed************************
+2019-03-18 11:02:02,889 - myunittest.py:[27]-[INFO] - ************************starting run test cases************************
+2019-03-18 11:02:09,560 - myunittest.py:[32]-[INFO] - ************************test case run completed************************
+2019-03-18 11:02:18,749 - myunittest.py:[38]-[INFO] - quit the browser successed .
+2019-03-18 11:02:29,760 - myunittest.py:[16]-[INFO] - open the browser successed .
+2019-03-18 11:02:33,781 - myunittest.py:[27]-[INFO] - ************************starting run test cases************************
+2019-03-18 11:02:40,444 - myunittest.py:[32]-[INFO] - ************************test case run completed************************
+2019-03-18 11:02:40,445 - myunittest.py:[27]-[INFO] - ************************starting run test cases************************
+2019-03-18 11:02:57,364 - myunittest.py:[32]-[INFO] - ************************test case run completed************************
+2019-03-18 11:02:57,364 - myunittest.py:[27]-[INFO] - ************************starting run test cases************************
+2019-03-18 11:03:11,461 - myunittest.py:[32]-[INFO] - ************************test case run completed************************
+2019-03-18 11:03:11,462 - myunittest.py:[27]-[INFO] - ************************starting run test cases************************
+2019-03-18 11:03:18,004 - myunittest.py:[32]-[INFO] - ************************test case run completed************************
+2019-03-18 11:03:18,004 - myunittest.py:[27]-[INFO] - ************************starting run test cases************************
+2019-03-18 11:03:25,692 - myunittest.py:[32]-[INFO] - ************************test case run completed************************
+2019-03-18 11:03:29,761 - myunittest.py:[38]-[INFO] - quit the browser successed .
+age.py:[156]-[INFO] - clickMenu ,clicking....!
+2019-03-18 11:01:50,847 - BasePage.py:[54]-[INFO] - the page <ONU.PageObj.LanPage.LanPage object at 0x0000000004DA7898> has find the element ('xpath', '/html/body/div[1]/div[2]/div[1]/ul/li[3]/div')
+2019-03-18 11:01:51,090 - BasePage.py:[156]-[INFO] - clickMenu ,clicking....!
+2019-03-18 11:01:56,253 - BasePage.py:[54]-[INFO] - the page <ONU.PageObj.LanPage.LanPage object at 0x0000000004DA7390> has find the element ('xpath', '/html/body/div[1]/div[1]/div[2]/div[2]/ul/li[3]/div[2]')
+2019-03-18 11:01:56,492 - BasePage.py:[156]-[INFO] - clickMenu ,clicking....!
+2019-03-18 11:01:57,549 - BasePage.py:[54]-[INFO] - the page <ONU.PageObj.LanPage.LanPage object at 0x0000000004DA7390> has find the element ('xpath', '/html/body/div[1]/div[2]/div[1]/ul/li[4]/div')
+2019-03-18 11:01:57,775 - BasePage.py:[156]-[INFO] - clickMenu ,clicking....!
+2019-03-18 11:02:02,935 - BasePage.py:[54]-[INFO] - the page <ONU.PageObj.LanPage.LanPage object at 0x0000000004DA7668> has find the element ('xpath', '/html/body/div[1]/div[1]/div[2]/div[2]/ul/li[3]/div[2]')
+2019-03-18 11:02:03,170 - BasePage.py:[156]-[INFO] - clickMenu ,clicking....!
+2019-03-18 11:02:04,214 - BasePage.py:[54]-[INFO] - the page <ONU.PageObj.LanPage.LanPage object at 0x0000000004DA7668> has find the element ('xpath', '/html/body/div[1]/div[2]/div[1]/ul/li[5]/div')
+2019-03-18 11:02:04,442 - BasePage.py:[156]-[INFO] - clickMenu ,clicking....!
+2019-03-18 11:02:30,925 - BasePage.py:[42]-[INFO] - openUrl is accessing address http://192.168.100.1 at line[46]
+2019-03-18 11:02:30,969 - BasePage.py:[54]-[INFO] - the page <ONU.PageObj.LoginPage.LoginPage object at 0x0000000004DC2D68> has find the element ('id', 'txt_Username')
+2019-03-18 11:02:31,013 - BasePage.py:[150]-[INFO] - inputValue:[('id', 'txt_Username')] is receiveing value [telecomadmin]
+2019-03-18 11:02:31,048 - BasePage.py:[54]-[INFO] - the page <ONU.PageObj.LoginPage.LoginPage object at 0x0000000004DC2D68> has find the element ('id', 'txt_Password')
+2019-03-18 11:02:31,081 - BasePage.py:[150]-[INFO] - inputValue:[('id', 'txt_Password')] is receiveing value [admintelecom]
+2019-03-18 11:02:31,128 - BasePage.py:[54]-[INFO] - the page <ONU.PageObj.LoginPage.LoginPage object at 0x0000000004DC2D68> has find the element ('id', 'button')
+2019-03-18 11:02:33,822 - BasePage.py:[54]-[INFO] - the page <ONU.PageObj.WanPage.WanPage object at 0x0000000004DA7748> has find the element ('xpath', '/html/body/div[1]/div[1]/div[2]/div[2]/ul/li[2]/div[2]')
+2019-03-18 11:02:34,155 - BasePage.py:[156]-[INFO] - clickMenu ,clicking....!
+2019-03-18 11:02:35,207 - BasePage.py:[54]-[INFO] - the page <ONU.PageObj.WanPage.WanPage object at 0x0000000004DA7748> has find the element ('xpath', '/html/body/div[1]/div[2]/div[1]/ul/li[1]/div')
+2019-03-18 11:02:35,435 - BasePage.py:[156]-[INFO] - clickMenu ,clicking....!
+2019-03-18 11:02:40,500 - BasePage.py:[54]-[INFO] - the page <ONU.PageObj.WanPage.WanPage object at 0x0000000004DA77F0> has find the element ('xpath', '/html/body/div[1]/div[1]/div[2]/div[2]/ul/li[2]/div[2]')
+2019-03-18 11:02:40,748 - BasePage.py:[156]-[INFO] - clickMenu ,clicking....!
+2019-03-18 11:02:41,812 - BasePage.py:[54]-[INFO] - the page <ONU.PageObj.WanPage.WanPage object at 0x0000000004DA77F0> has find the element ('xpath', '/html/body/div[1]/div[2]/div[1]/ul/li[1]/div')
+2019-03-18 11:02:42,040 - BasePage.py:[156]-[INFO] - clickMenu ,clicking....!
+2019-03-18 11:02:45,111 - BasePage.py:[54]-[INFO] - the page <ONU.PageObj.WanPage.WanPage object at 0x0000000004DA77F0> has find the element ('id', 'Newbutton')
+2019-03-18 11:02:46,271 - BasePage.py:[156]-[INFO] - clickMenu ,clicking....!
+2019-03-18 11:02:48,687 - BasePage.py:[54]-[INFO] - the page <ONU.PageObj.WanPage.WanPage object at 0x0000000004DA77F0> has find the element ('id', 'VlanId')
+2019-03-18 11:02:48,718 - BasePage.py:[150]-[INFO] - inputValue:[('id', 'VlanId')] is receiveing value [100]
+2019-03-18 11:02:48,754 - BasePage.py:[54]-[INFO] - the page <ONU.PageObj.WanPage.WanPage object at 0x0000000004DA77F0> has find the element ('id', 'IPv4MXU')
+2019-03-18 11:02:48,838 - BasePage.py:[150]-[INFO] - inputValue:[('id', 'IPv4MXU')] is receiveing value [1292]
+2019-03-18 11:02:48,907 - BasePage.py:[110]-[INFO] - exceute js return OnApply() successed !
+2019-03-18 11:02:57,402 - BasePage.py:[54]-[INFO] - the page <ONU.PageObj.WanPage.WanPage object at 0x0000000004DA78D0> has find the element ('xpath', '/html/body/div[1]/div[1]/div[2]/div[2]/ul/li[2]/div[2]')
+2019-03-18 11:02:57,630 - BasePage.py:[156]-[INFO] - clickMenu ,clicking....!
+2019-03-18 11:02:58,688 - BasePage.py:[54]-[INFO] - the page <ONU.PageObj.WanPage.WanPage object at 0x0000000004DA78D0> has find the element ('xpath', '/html/body/div[1]/div[2]/div[1]/ul/li[1]/div')
+2019-03-18 11:02:58,926 - BasePage.py:[156]-[INFO] - clickMenu ,clicking....!
+2019-03-18 11:03:03,123 - BasePage.py:[54]-[INFO] - the page <ONU.PageObj.WanPage.WanPage object at 0x0000000004DA78D0> has find the element ('id', 'wanInstTable_rml1')
+2019-03-18 11:03:03,381 - BasePage.py:[156]-[INFO] - clickMenu ,clicking....!
+2019-03-18 11:03:03,411 - BasePage.py:[54]-[INFO] - the page <ONU.PageObj.WanPage.WanPage object at 0x0000000004DA78D0> has find the element ('id', 'DeleteButton')
+2019-03-18 11:03:06,452 - BasePage.py:[156]-[INFO] - clickMenu ,clicking....!
+2019-03-18 11:03:11,501 - BasePage.py:[54]-[INFO] - the page <ONU.PageObj.WanPage.WanPage object at 0x0000000004DA79B0> has find the element ('xpath', '/html/body/div[1]/div[1]/div[2]/div[2]/ul/li[2]/div[2]')
+2019-03-18 11:03:11,728 - BasePage.py:[156]-[INFO] - clickMenu ,clicking....!
+2019-03-18 11:03:12,784 - BasePage.py:[54]-[INFO] - the page <ONU.PageObj.WanPage.WanPage object at 0x0000000004DA79B0> has find the element ('xpath', '/html/body/div[1]/div[2]/div[1]/ul/li[2]/div')
+2019-03-18 11:03:13,024 - BasePage.py:[156]-[INFO] - clickMenu ,clicking....!
+2019-03-18 11:03:18,066 - BasePage.py:[54]-[INFO] - the page <ONU.PageObj.WanPage.WanPage object at 0x0000000004DA7D68> has find the element ('xpath', '/html/body/div[1]/div[1]/div[2]/div[2]/ul/li[2]/div[2]')
+2019-03-18 11:03:18,299 - BasePage.py:[156]-[INFO] - clickMenu ,clicking....!
+2019-03-18 11:03:19,366 - BasePage.py:[54]-[INFO] - the page <ONU.PageObj.WanPage.WanPage object at 0x0000000004DA7D68> has find the element ('xpath', '/html/body/div[1]/div[2]/div[1]/ul/li[3]/div')
+2019-03-18 11:03:19,596 - BasePage.py:[156]-[INFO] - clickMenu ,clicking....!
